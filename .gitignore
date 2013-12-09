@@ -30,3 +30,5 @@
 *.vrb
 *.xdy
 *.tdo
+*.fls
+directed-non-trivial.pdf
